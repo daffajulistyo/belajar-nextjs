@@ -21,3 +21,14 @@ a {
 .title {
   color: greenyellow;
 }
+
+#__next{
+  height: 100%;
+
+}
+
+.title-not-found{
+  color: darkgrey;
+  text-align: center;
+  
+}
